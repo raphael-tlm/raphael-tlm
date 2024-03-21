@@ -13,8 +13,8 @@
 | **Front-end** | **Back-end** |
 |:-------------:|:------------:|
 |     Html      |     Php      |
-|      Css      |    React     |
-|  JavaScript   |    MySQL     |
+|      Css      |    MySQL     |
+|  JavaScript   |              |
 |   TailWindCss |              |
 |     React     |              |
 

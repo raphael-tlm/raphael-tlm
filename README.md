@@ -2,7 +2,10 @@
 
 ## Summary
 
-*(wip)*
+- [About Me](##Let's-Talk-About-Me)
+- [Skills](##The-Skills-I-Learned)
+- [Projects](##List-of-Project)
+- [Reach Me](##Way-to-Reach-Me)
 
 ## Let's Talk About Me
 
@@ -84,7 +87,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" alt="Spiral Notepad" width="150" align='right' />
 
-- [Discussion and Form Manager](github.com/raphael-tlm/atpc_Service)
+- [Discussion and Form Manager](https://github.com/raphael-tlm/atpc_Service.git)
 
 <br>
 <br>

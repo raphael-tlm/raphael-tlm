@@ -2,10 +2,10 @@
 
 ## Summary
 
-- [About Me](##Let's-Talk-About-Me)
-- [Skills](##The-Skills-I-Learned)
-- [Projects](##List-of-Project)
-- [Reach Me](##Way-to-Reach-Me)
+- [About Me](#lets-talk-about-me)
+- [Skills](#the-skills-i-learned)
+- [Projects](#list-of-project)
+- [Reach Me](#way-to-reach-me)
 
 ## Let's Talk About Me
 
